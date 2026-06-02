@@ -6,7 +6,7 @@ This project combines structured OPSEC principles with usable scripts, automatio
 
 ---
 
-## 🎯 Purpose
+## 1- Purpose
 
 To provide a hands-on environment for:
 - Understanding digital exposure and identity linkage
