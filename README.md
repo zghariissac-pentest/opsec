@@ -50,11 +50,11 @@ To provide a hands-on environment for:
 
 This repository is modular. Each folder works independently:
 
-- `/identity_system` → identity and persona tools
-- `/recon_engine` → OSINT automation scripts
-- `/opsec_tools` → security utilities
-- `/network_security` → traffic and anonymity checks
-- `/automation` → auditing and detection systems
+- `/identity_system` : identity and persona tools
+- `/recon_engine` : OSINT automation scripts
+- `/opsec_tools` : security utilities
+- `/network_security` : traffic and anonymity checks
+- `/automation` : auditing and detection systems
 
 ---
 
