@@ -1,3 +1,5 @@
+![Project Banner](opsec.png)
+
 # OPSEC-OPS-CORE
 
 A practical operational security and red team research toolkit focused on identity isolation, threat modeling, OSINT automation, system hardening, and digital footprint control.
